@@ -13,7 +13,7 @@
         "descripcion": "La AeroPress es una cafetera versátil y portátil que combina la preparación por inmersión y a presión. Consta de dos cámaras cilíndricas, un émbolo y un filtro. La AeroPress prepara el café rápidamente bajo presión, lo que da como resultado una taza suave, rica y llena de sabor. Su tamaño compacto, facilidad de uso y rápido proceso de preparación la convierten en una elección popular tanto para uso doméstico como para viajes. La AeroPress puede producir café estilo espresso o café diluido similar al café americano o al café de goteo, dependiendo del método de preparación utilizado.",
         "fecha": "2004",
         "signo": "Prensa",
-        "foto": ["aeropress.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/aeropress.webp"],
         "fotos": ["aeropress1.webp","aeropress2.webp","aeropress3.webp"],
         "github": "https://github.com/ag-contreras"
     },
