@@ -76,7 +76,7 @@
 
                 data.forEach((d, i) => (principal.innerHTML += `<div class="${d.signo} col mb-3">
                     <div class="card h-100 text-bg-primary shadow-sm text-center">
-                        <img src="${d.foto}" class="card-img-top" alt="${d.fecha}">
+                        <img src="${d.foto[0]}" class="card-img-top" alt="${d.fecha}">
                         <div class="card-body" style="text-align: center;">
                             <p class="card-text"> 
                              <a href="single.html?data=${i}" class= "link-light link-offset-2 link-offset-3-hover link-underline link-underline-opacity-0 link-underline-opacity-75-hover stretched-link">${d.nombre}

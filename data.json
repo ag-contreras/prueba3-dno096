@@ -4,7 +4,7 @@
         "descripcion": "La V60 es una cafetera de vertido manual diseñada por la empresa japonesa Hario. Es conocida por su forma cónica y sus rebordes en espiral, que ayudan a controlar el flujo de agua y extraer el café de manera uniforme. La V60 permite la preparación por inmersión total, en la que los posos de café se sumergen en el agua antes de ser filtrados. Este método realza los sutiles sabores del café y permite experimentar fácilmente con el tamaño del grano, la temperatura del agua y el tiempo de infusión. Es ideal para aquellos que disfrutan de un enfoque práctico para preparar y saborear perfiles de café complejos.",
         "fecha": "2004",
         "signo": "PourOver",
-        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/v.webp"],
+        "foto": ["v.webp"],
         "fotos": ["v1.webp","v2.webp","v3.webp"],
         "github": "https://github.com/ag-contreras"
     },
