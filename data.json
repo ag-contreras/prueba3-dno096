@@ -4,7 +4,7 @@
         "descripcion": "La V60 es una cafetera de vertido manual diseñada por la empresa japonesa Hario. Es conocida por su forma cónica y sus rebordes en espiral, que ayudan a controlar el flujo de agua y extraer el café de manera uniforme. La V60 permite la preparación por inmersión total, en la que los posos de café se sumergen en el agua antes de ser filtrados. Este método realza los sutiles sabores del café y permite experimentar fácilmente con el tamaño del grano, la temperatura del agua y el tiempo de infusión. Es ideal para aquellos que disfrutan de un enfoque práctico para preparar y saborear perfiles de café complejos.",
         "fecha": "2004",
         "signo": "PourOver",
-        "foto": ["v.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/v.webp"],
         "fotos": ["v1.webp","v2.webp","v3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -22,7 +22,7 @@
         "descripcion": "La Clever Dripper es una cafetera híbrida que combina los métodos de inmersión y goteo, ofreciendo lo mejor de ambos mundos. Cuenta con un sistema de válvula único que mantiene el café y el agua juntos durante la inmersión, y luego se libera para permitir la filtración estilo goteo. Este diseño permite una extracción completa del café y claridad en la taza. El Clever Dripper está hecho de plástico sin BPA, por lo que es ligero, duradero y fácil de limpiar. Su diseño sencillo y su proceso de preparación indulgente lo convierten en una excelente opción tanto para principiantes como para amantes del café experimentados que buscan un método de preparación consistente y versátil.",
         "fecha": "2006",
         "signo": "PourOver",
-        "foto": ["clever.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/clever.webp"],
         "fotos": ["clever1.webp","clever2.webp","clever3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -31,7 +31,7 @@
         "descripcion": "La Kalita es una popular cafetera de vertido manual, diseñada por Kalita de Japón. Presenta un fondo plano y tres pequeños orificios en la base, que garantizan una extracción uniforme y homogénea. Las crestas en forma de onda de su filtro de acero inoxidable regulan el flujo de agua, favoreciendo una taza de café equilibrada y limpia. El diseño de la Kalita Wave permite un proceso de preparación más indulgente en comparación con otros métodos de vertido, por lo que es adecuada tanto para principiantes como para entusiastas experimentados del café. Su tamaño compacto y su durabilidad la convierten en una gran opción para quienes disfrutan viajando con su equipo de preparación.",
         "fecha": "1959",
         "signo": "PourOver",
-        "foto": ["kalita.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/kalita.webp"],
         "fotos": ["kalita1.webp","kalita2.webp","kalita3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -40,7 +40,7 @@
         "descripcion": "La Melitta es una cafetera de goteo clásico, inventada por Melitta Bentz en 1908. Se trata de una cafetera manual sencilla pero eficaz que utiliza un filtro de papel o metal para separar los posos del café del líquido. El diseño de la Melitta suele incluir una cafetera en forma de cono y un orificio en la parte inferior para controlar el flujo de agua. Este método realza los sutiles sabores del café y permite experimentar fácilmente con el tamaño del grano, la temperatura del agua y el tiempo de infusión. La Melitta es una opción asequible, accesible y de bajo mantenimiento para los entusiastas del café que aprecian un enfoque práctico de la preparación y disfrutan de una taza de café limpia, ligera y llena de matices.",
         "fecha": "1908",
         "signo": "PourOver",
-        "foto": ["melitta.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/melitta.webp"],
         "fotos": ["melitta1.webp","melitta2.webp","melitta3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -49,7 +49,7 @@
         "descripcion": "La cafetera *cezve*, también conocida como *ibrik*, es un recipiente tradicional usado para preparar café turco. Originaria del Medio Oriente, tiene una forma particular con base ancha, cuello estrecho y un mango largo que facilita su manejo. Se utiliza en fogones o braseros, y permite hervir el café finamente molido junto con agua y azúcar, produciendo un sabor intenso y una textura espesa. La espuma característica en la superficie del café es esencial en esta preparación.",
         "fecha": "Siglo XVI",
         "signo": "PourOver",
-        "foto":  ["turk.webp"],
+        "foto":  ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/turk.webp"],
         "fotos": ["turk1.webp","turk2.webp","turk3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -58,7 +58,7 @@
         "descripcion": "La cafetera *Delter Press* es un dispositivo moderno para preparar café mediante presión, similar a la *Aeropress*. Utiliza un sistema de cámara de presión que separa el agua del café hasta el momento de la extracción, lo que permite un control más preciso sobre la infusión. Esto ayuda a reducir la amargura y mejora la claridad en el sabor, ofreciendo una taza de café limpia y bien equilibrada.",
         "fecha": "2018",
         "signo": "Prensa",
-        "foto": ["delter.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/delter.webp"],
         "fotos": ["delter1.webp","delter2.webp","delter3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -67,7 +67,7 @@
         "descripcion": "La *Bonavita Manual* es una cafetera de vertido, también conocida como *pour-over*, diseñada para preparar café de manera artesanal. Su estructura incluye un cuello de cisne que permite un vertido lento y controlado, lo que facilita una extracción uniforme y un mayor control sobre el sabor. Ideal para los entusiastas del café, esta cafetera permite ajustar la técnica de vertido para obtener una taza con sabores balanceados y bien definidos.",
         "fecha": "1992",
         "signo": "PourOver",
-        "foto": ["bona.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/bona.webp"],
         "fotos": ["bona1.webp","bona2.webp","bona3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -76,7 +76,7 @@
         "descripcion": "La *Chemex* es una cafetera de vertido (*pour-over*) de vidrio en forma de reloj de arena, conocida por su diseño elegante y su capacidad para producir café suave y limpio. Utiliza filtros de papel grueso que eliminan aceites y sedimentos, resultando en una taza de café de cuerpo ligero, con alta claridad y sin amargor. Su proceso permite controlar cada variable de la extracción, haciendo que sea apreciada tanto por aficionados como por baristas profesionales.",
         "fecha": "1941",
         "signo": "PourOver",
-        "foto": ["chemex.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/chemex.webp"],
         "fotos":["chemex1.webp","chemex2.webp","chemex3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -85,7 +85,7 @@
         "descripcion": "La moka pot, o cafetera italiana, es una cafetera de estufa que prepara café mediante presión de vapor. Consiste en tres compartimentos: uno para el agua, uno para el café molido y otro superior para el café preparado. A medida que el agua hierve, el vapor empuja el agua caliente a través del café molido, produciendo una bebida fuerte y con cuerpo, similar al espresso.",
         "fecha": "1933",
         "signo": "Presion",
-        "foto": ["moka.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/moka.webp"],
         "fotos": ["moka1.webp","moka2.webp","moka3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -94,7 +94,7 @@
         "descripcion": "La French Press es una cafetera de émbolo que permite una extracción completa del café en contacto con el agua. Para usarla, se mezcla el café molido con agua caliente, se deja reposar unos minutos y luego se presiona el émbolo, filtrando el café. El resultado es una bebida de cuerpo completo y sabor intenso, ya que retiene aceites y sedimentos.",
         "fecha": "1852",
         "signo": "Prensa",
-        "foto": ["french.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/french.webp"],
         "fotos": ["french1.webp","french2.webp","french3.webp"],
         "github": "https://github.com/ag-contreras"
     },
@@ -103,7 +103,7 @@
         "descripcion": "El Japanese Syphon de Hario es una cafetera al vacío que funciona mediante calor. Tiene dos cámaras de vidrio conectadas; cuando el agua en la cámara inferior se calienta, sube hacia la superior, donde se mezcla con el café molido. Al retirarse del calor, el vacío creado succiona el café filtrado de regreso a la cámara inferior, produciendo una taza suave, clara y aromática, ideal para destacar matices complejos.",
         "fecha": "1830",
         "signo": "Presion",
-        "foto": ["syphon.webp"],
+        "foto": ["https://raw.githubusercontent.com/ag-contreras/prueba3-dno096/refs/heads/main/WebP/syphon.webp"],
         "fotos": ["syphon1.webp","syphon2.webp","syphon3.webp"],
         "github": "https://github.com/ag-contreras"
     }
