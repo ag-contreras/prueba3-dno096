@@ -67,8 +67,8 @@
         "descripcion": "La *Bonavita Manual* es una cafetera de vertido, también conocida como *pour-over*, diseñada para preparar café de manera artesanal. Su estructura incluye un cuello de cisne que permite un vertido lento y controlado, lo que facilita una extracción uniforme y un mayor control sobre el sabor. Ideal para los entusiastas del café, esta cafetera permite ajustar la técnica de vertido para obtener una taza con sabores balanceados y bien definidos.",
         "fecha": "1992",
         "signo": "PourOver",
-        "foto": ["bonavita.webp"],
-        "fotos": ["bonavita.webp","bonavita.webp","bonavita.webp"],
+        "foto": ["bona.webp"],
+        "fotos": ["bona1.webp","bona2.webp","bona3.webp"],
         "github": "https://github.com/ag-contreras"
     },
     {
